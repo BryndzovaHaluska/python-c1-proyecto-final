@@ -144,3 +144,4 @@ Se requiere una demostración visual, clara y concisa del aplicativo desarrollad
 * **Contenido**: Debe evidenciar claramente el funcionamiento completo del aplicativo, incluyendo la interacción entre los microservicios.
 * **Funcionamiento**: Mostrar el flujo de trabajo del sistema, desde la inicialización de los servicios hasta la creación de una cita médica, destacando la comunicación RESTful entre los módulos.
 
+#
